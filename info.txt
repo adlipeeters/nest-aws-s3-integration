@@ -1,0 +1,3 @@
+npm install -D @types/multer
+npm install @aws-sdk/client-s3 @nestjs/config
+npm install @nestjs/throttler
